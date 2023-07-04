@@ -1,0 +1,15 @@
+:root {
+  --background: #f4f5f7;
+  --primaryBlue: #0d28a6;
+  --hoverBlue: #cfd4ed;
+  --primaryRed: rgba(208, 12, 26, 0.1);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0 !important;
+}
